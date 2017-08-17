@@ -9,6 +9,7 @@ $book->author="Lautréamont";
 R::store($book);
 
 $book=R::dispense("book");
+S
 $book->tilte="les Refrets";
 $book->author="Joaquim Du Bellay";
 $book->genre="Poésie";
